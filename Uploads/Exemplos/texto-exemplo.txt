@@ -1,0 +1,4 @@
+Este é um arquivo de texto de exemplo.
+
+Se você tocar nele no site, o conteúdo aparece na janela de prévia.
+Arquivos .txt, .md, .json, .csv e vários tipos de código têm prévia de texto.
