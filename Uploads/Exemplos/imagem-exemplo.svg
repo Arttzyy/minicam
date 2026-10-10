@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="660" cy="80" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="110" cy="430" r="190" fill="#ffffff" opacity="0.10"/>
+  <circle cx="720" cy="420" r="70" fill="#ffffff" opacity="0.12"/>
+  <text x="400" y="235" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="bold" fill="#ffffff" text-anchor="middle">MiniCam</text>
+  <text x="400" y="285" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#eef2ff" text-anchor="middle">Exemplo de imagem na pasta Uploads</text>
+  <text x="400" y="330" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#dbeafe" text-anchor="middle" opacity="0.85">Você pode apagar esta pasta de exemplos a qualquer momento</text>
+</svg>
